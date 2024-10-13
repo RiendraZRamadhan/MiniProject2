@@ -1,9 +1,11 @@
 # MiniProject2
 
 
-Manajemen Bank Darah PMR
+# Manajemen Bank Darah PMR
 Program ini adalah sistem manajemen sederhana untuk Bank Darah PMR (Palang Merah Remaja) yang memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data donor darah.
-Cara Kerja Program
+
+
+# Cara Kerja Program
 
 
 # 1. Struktur Program
