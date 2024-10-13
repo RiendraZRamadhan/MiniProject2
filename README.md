@@ -102,3 +102,7 @@ Program terdiri dari beberapa kelas yang diorganisir dalam package:
 
 ![image](https://github.com/user-attachments/assets/bec9e7a8-3974-4b77-b2cc-46966f8e3b26)
 
+[KELUAR DARI PROGRAM]
+
+
+![image](https://github.com/user-attachments/assets/c040772c-9827-4adb-b707-cd6985b03cf7)
