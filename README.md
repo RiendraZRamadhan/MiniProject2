@@ -77,5 +77,6 @@ Program terdiri dari beberapa kelas yang diorganisir dalam package:
 3. Jalankan kelas ManajemenBankDarah dari package main.
 
 # CONTOH PENGGUNAAN
-[Deskripsi Gambar]![Screenshot 2024-10-13 145823](https://github.com/user-attachments/assets/5f4bfd6c-6c97-4d44-9138-735607d39a55)
+[MENU UTAMA]
+![Screenshot 2024-10-13 145823](https://github.com/user-attachments/assets/5f4bfd6c-6c97-4d44-9138-735607d39a55)
 
