@@ -82,3 +82,23 @@ Program terdiri dari beberapa kelas yang diorganisir dalam package:
 
 ![Screenshot 2024-10-13 145823](https://github.com/user-attachments/assets/5f4bfd6c-6c97-4d44-9138-735607d39a55)
 
+[PENAMBAHAN DATA DONOR]
+
+
+![image](https://github.com/user-attachments/assets/a62c664f-4079-435b-81ff-fee97331d2c1)
+
+[MENAMPILKAN DATA DONOR]
+
+
+![image](https://github.com/user-attachments/assets/b41d815f-275d-4073-adf9-fde9d42c4908)
+
+[MEMPERBARUI DATA DONOR]
+
+
+![image](https://github.com/user-attachments/assets/892d793a-f9e2-4169-ba3e-94605c58564d)
+
+[MENGHAPUS DATA DONOR]
+
+
+![image](https://github.com/user-attachments/assets/bec9e7a8-3974-4b77-b2cc-46966f8e3b26)
+
