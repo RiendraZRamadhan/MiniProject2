@@ -78,4 +78,5 @@ Program terdiri dari beberapa kelas yang diorganisir dalam package:
 
 # CONTOH PENGGUNAAN
 
-[MENU UTAMA][image](https://github.com/user-attachments/assets/175348f4-8b13-4a02-8341-29ca5e45327a)
+![Deskripsi Gambar](![Screenshot 2024-10-13 145823](https://github.com/user-attachments/assets/5f4bfd6c-6c97-4d44-9138-735607d39a55)
+)
