@@ -11,20 +11,20 @@ Program ini adalah sistem manajemen sederhana untuk Bank Darah PMR (Palang Merah
 # 1. Struktur Program
 Program terdiri dari beberapa kelas yang diorganisir dalam package:
 
-model:
+*model:*
 
-Orang: Kelas abstrak yang menjadi dasar untuk DonorDarah dan Petugas.
-DonorDarah: Kelas yang merepresentasikan donor darah.
-Petugas: Kelas yang merepresentasikan petugas PMR.
+* Orang: Kelas abstrak yang menjadi dasar untuk DonorDarah dan Petugas.
+* DonorDarah: Kelas yang merepresentasikan donor darah.
+* Petugas: Kelas yang merepresentasikan petugas PMR.
 
 
-service:
+*service:*
 
 CRUDInterface: Interface yang mendefinisikan operasi CRUD.
 BankDarahService: Kelas yang mengimplementasikan CRUDInterface untuk mengelola data donor.
 
 
-main:
+*main:*
 
 ManajemenBankDarah: Kelas utama yang menjalankan program dan menangani interaksi dengan pengguna.
 
